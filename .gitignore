@@ -1,5 +1,6 @@
 
 .env
+.venv/
 *.pkl
 *.csv
 mage.log
