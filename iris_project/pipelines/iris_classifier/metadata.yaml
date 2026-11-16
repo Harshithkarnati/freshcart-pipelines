@@ -1,0 +1,50 @@
+
+name: iris_classifier
+type: python
+
+blocks:
+  - uuid: load_iris
+    name: load_iris
+    type: data_loader
+    upstream_blocks: []
+    downstream_blocks:
+      - validate_iris
+
+  - uuid: validate_iris
+    name: validate_iris
+    type: transformer
+    upstream_blocks:
+      - load_iris
+    downstream_blocks:
+      - prepare_data
+
+  - uuid: prepare_data
+    name: prepare_data
+    type: transformer
+    upstream_blocks:
+      - validate_iris
+    downstream_blocks:
+      - train_model
+
+  - uuid: train_model
+    name: train_model
+    type: transformer
+    upstream_blocks:
+      - prepare_data
+    downstream_blocks:
+      - save_results
+      - evaluate_model
+
+  - uuid: save_results
+    name: save_results
+    type: data_exporter
+    upstream_blocks:
+      - train_model
+    downstream_blocks: []
+
+  - uuid: evaluate_model
+    name: evaluate_model
+    type: transformer
+    upstream_blocks:
+      - train_model
+    downstream_blocks: []

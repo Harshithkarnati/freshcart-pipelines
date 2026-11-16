@@ -1,12 +1,22 @@
 
-def transform(df):
-    """
-    Add a split column to the Iris dataset.
-    80% of rows are assigned to train and 20% to test.
-    """
+@transformer
+def prepare_data(df, *args, **kwargs):
     df = df.copy()
-
     df["split"] = "train"
-    df.loc[df.sample(frac=0.2, random_state=42).index, "split"] = "test"
+
+    test_indices = df.sample(
+        frac=0.2,
+        random_state=42
+    ).index
+
+    df.loc[test_indices, "split"] = "test"
 
     return df
+
+
+@test
+def test_output(output, *args):
+    assert output is not None
+    assert len(output) == 150
+    assert (output["split"] == "train").sum() == 120
+    assert (output["split"] == "test").sum() == 30
