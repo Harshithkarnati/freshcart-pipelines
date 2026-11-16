@@ -1,0 +1,73 @@
+Driver Karthik listening | pattern=chennai.tnagar.food
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '95c9a0b2', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T13:54:54.059409+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'f2e6da6f', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T13:55:15.607418+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'bee15e46', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T13:55:27.611939+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'afe5e55a', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T13:55:31.613422+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '9f3b27d2', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T13:55:36.074098+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'a1e083f5', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T13:55:40.075630+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'e992344a', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T13:56:28.096215+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'a8c5ff1a', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T13:56:37.638770+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '2b2c63c0', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T13:56:48.103732+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'eca8bd48', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T13:57:07.650280+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '5c284fd7', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T13:57:20.115481+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '0577182e', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T13:57:24.116927+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '6e45cec0', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T13:57:41.662490+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '289e2589', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T13:57:42.123546+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'd90d05ca', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T13:57:56.128598+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'fd7f7f4d', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T13:58:57.695681+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'd4cbe921', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T13:58:59.696417+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '1f68d2de', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T13:59:05.698665+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '7cde2a85', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T13:59:09.700049+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'b3c554ee', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T13:59:23.705514+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '5fe48f11', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T13:59:27.707003+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '98fb4535', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T13:59:39.711639+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '4ebd8c0a', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T13:59:50.175579+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '906607b6', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T13:59:58.178436+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '5aab41e2', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:00:03.720817+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'b297242e', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:00:06.181115+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '410078d0', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:00:20.186530+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '8c40039f', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:00:25.729660+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'bbba59e8', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:01:07.745507+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'f87309b4', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:01:14.208012+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'c274112c', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:01:22.211191+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '84c4e12b', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:02:05.769156+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'fb7c6805', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:02:22.235469+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '3f8c12f2', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:02:29.777746+00:00'}
+REJECTED by Karthik | key=chennai.tnagar.food | reason=missing zone | id=5835c977
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'd0b1dfa5', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:02:44.243443+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'de27dbe2', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:03:19.796602+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '67b0497b', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:03:41.804452+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'c812b85e', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:03:50.268420+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '8f3f9171', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:05:22.304814+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '1a9e206d', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:06:05.860529+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'f0e1e26f', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:06:15.864385+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'ca2feb02', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:06:17.865015+00:00'}
+REJECTED by Karthik | key=chennai.tnagar.food | reason=missing zone | id=99e77e9d
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'a26c444e', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:06:34.332161+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'b3eab1ff', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:06:35.871533+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '55132e0e', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:06:50.337935+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '4dc62248', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:06:58.340922+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '3aa351f9', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:06:59.880423+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '794662f1', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:07:15.886254+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '2711ca46', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:07:16.347677+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'ad540234', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:07:19.887736+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '551d8ff3', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:07:23.889049+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'a6a76ade', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:07:35.894577+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '2cc11d59', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:07:36.355192+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '95db78f5', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:07:42.357661+00:00'}
+REJECTED by Karthik | key=chennai.tnagar.food | reason=missing zone | id=c87ab282
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'c904934d', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:08:15.910525+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '02616970', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:08:21.912433+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'd7ccaf25', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:08:51.922988+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '0fd67f6b', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:09:05.927814+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'f37f7536', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:09:07.928575+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'c5532e38', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:09:08.389145+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'ac6e6d6e', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:09:17.931918+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'de1e79d2', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:09:18.393160+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '8ee95bae', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:09:24.395430+00:00'}
+REJECTED by Karthik | key=chennai.tnagar.food | reason=missing zone | id=48019fcd
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '5332688c', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:09:47.942982+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': '22e0c5ff', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:10:01.948366+00:00'}
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'aa405434', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:10:07.950342+00:00'}
+REJECTED by Karthik | key=chennai.tnagar.food | reason=missing zone | id=e54e8dee
+PROCESSED by Karthik | key=chennai.tnagar.food | message={'id': 'd596b1db', 'city': 'chennai', 'zone': 'tnagar', 'type': 'food', 'ts': '2026-11-16T14:10:16.416199+00:00'}
